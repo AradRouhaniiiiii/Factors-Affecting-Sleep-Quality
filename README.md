@@ -96,5 +96,3 @@ input_data = {
   <a href="https://t.me/aradrouhaniiiiii"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>
   <a href="https://www.kaggle.com/aradrouhani"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
 </p>
-
----
