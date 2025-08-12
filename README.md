@@ -92,7 +92,7 @@ input_data = {
 
 ## 📬 Connect With Me
 <p align="center">
-  <a href="https://www.instagram.com/AradRouhaniiiiii"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/AradRouhani_com"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   <a href="https://t.me/aradrouhani_com"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>
   <a href="https://www.kaggle.com/aradrouhani"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
 </p>
